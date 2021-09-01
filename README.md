@@ -1,7 +1,10 @@
 ### Hi there, I'm Udhan Isuranga <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/udhan-isuranga/)
-[![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-square&logo=medium&logoColor=white)](https://medium.com/@udhanisuranga)
+<a href="https://www.linkedin.com/in/udhan-isuranga/">
+  <img align="left" alt="Udhan Isuranga Linkdin" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/linkedin.svg" />
+</a>
+<a href="https://medium.com/@udhanisuranga">
+  <img align="left" alt="Udhan Isuranga Medium" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/medium.svg" />
 
 ![](https://visitor-badge.glitch.me/badge?page_id=udhanMti.udhanMti)
 
