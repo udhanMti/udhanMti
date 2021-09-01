@@ -1,1 +1,2 @@
-[![UdhanMti's GitHub stats](https://github-readme-stats.vercel.app/api?username=udhanMti&count_private=true&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![UdhanMti's GitHub stats](https://github-readme-stats.vercel.app/api?username=udhanMti&count_private=true&show_icons=true&theme=onedark&bg_color=71f9af&text_color=070707&title_color=070707)](https://github.com/udhanMti/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=udhanMti&layout=compact&bg_color=91f9fc&count_private=true)](https://github.com/udhanMti/github-readme-stats)
